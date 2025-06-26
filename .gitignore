@@ -1,0 +1,23 @@
+# Maven / target
+/target/
+
+# Eclipse / IntelliJ / STS files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database and IDE caches
+*.h2.db
+*.db
+
+# Spring Boot DevTools (if used)
+restart.lock
